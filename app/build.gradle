@@ -38,7 +38,8 @@ implementation group: 'io.github.bonigarcia', name: 'webdrivermanager', version:
 
     // https://mvnrepository.com/artifact/org.apache.poi/poi
     implementation group: 'org.apache.poi', name: 'poi', version: '5.2.2'
-   
+    // https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml
+    implementation group: 'org.apache.poi', name: 'poi-ooxml', version: '5.2.2'
     implementation group: 'ru.yandex.qatools.ashot', name: 'ashot', version: '1.5.4'
    
     // https://mvnrepository.com/artifact/com.relevantcodes/extentreports
